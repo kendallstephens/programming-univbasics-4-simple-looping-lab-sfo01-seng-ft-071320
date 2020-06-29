@@ -11,7 +11,7 @@ number.times {puts message}
 end
 
 def output_array(array)
-  array.length {puts array}
+  5.times {puts array}
   
 end
   
