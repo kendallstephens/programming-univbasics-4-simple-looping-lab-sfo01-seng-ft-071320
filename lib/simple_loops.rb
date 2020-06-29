@@ -14,6 +14,8 @@ def output_array(array)
   5.times {puts array}
   
 end
+
+def return_string_array(array)
   
 
   
