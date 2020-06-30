@@ -18,7 +18,7 @@ def output_array(array)
 
 def return_string_array(array)
 
-array.length {puts array}
+puts array.length
 
 end
   
