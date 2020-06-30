@@ -19,7 +19,7 @@ def output_array(array)
 def return_string_array(array)
   
   count = 0 
-  new array = 
+  new array = []
   while count < array.length do
     array[count].to_s
     count += 1 
