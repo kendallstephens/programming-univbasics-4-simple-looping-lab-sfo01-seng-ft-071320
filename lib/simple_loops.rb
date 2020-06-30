@@ -18,6 +18,8 @@ def output_array(array)
 
 return_string_array(array)
 
+puts
+
 end
   
   
